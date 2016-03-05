@@ -1,4 +1,4 @@
-# Coursera_Getting_Cleaning_Data_Project
+# Coursera Getting Cleaning Data Project
 This repository contains work done as part of the Coursera Getting and Cleaning Data course. The objective for the work was to create a tidy dataset from data obtained from [Human Activity Recognition Using Smartphone](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) dataset. 
 
 ## Included Files
